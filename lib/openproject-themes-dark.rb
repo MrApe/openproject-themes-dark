@@ -1,1 +1,1 @@
-require 'open_project/themes/dark'
+require 'open_project/themes/plri'
